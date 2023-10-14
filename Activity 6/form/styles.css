@@ -1,0 +1,36 @@
+.rating {
+    font-size: 24px;
+}
+.rating input {
+    display: none;
+}
+.rating label {
+    cursor: pointer;
+}
+.rating label:before {
+    content: '\2605';
+    font-size: 36px;
+    color: #f3a449;
+}
+.rating input checked ~ label:before {
+    color: #f3a449;
+}
+h3 {
+    margin-bottom: -10px; 
+}
+
+p {
+    margin-top: 0px;
+    font-size: medium;
+}
+
+.ratings-table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+.ratings-table th, .ratings-table td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}

@@ -1,0 +1,58 @@
+body {
+  background-color: #cad2c5;
+  margin: 0;
+}
+.tt {
+  background-color: #2f3d46;
+  height: 50px;
+  position: relative;
+}
+
+.rr {
+  position: absolute;
+  border-radius: 25px;
+  height: 600px;
+  width: 300px;
+  background-color: #353535;
+  top: 100px;
+  left: 50px;
+}
+#git {
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+ 
+}
+
+
+.ipp{top: 110px;
+  left:600px;
+  height: 50px;
+  width: 700px;
+  background-color: #353535;position: absolute; border-radius:10px;
+  font-family: inherit;
+  text-align:left;
+  font-size: 20px;
+}
+.rows{
+  height: 150px;
+  width: 200px; left: 500px;
+  background-color: #353535;position: relative; border-radius:10px;top: 200px;
+}
+.rrrr{
+  height: 150px;
+  width: 200px; left: 340px;
+  background-color: #353535;position: absolute; border-radius:10px;top: 0px;
+}
+.rrr{
+  height: 150px;
+  width: 200px; left: 700px;
+  background-color: #353535;position: absolute; border-radius:10px;top: 0px;
+}
+.rrrrr{
+  height: 190px;
+  width: 900px; left: 10px;
+  background-color: #353535;position: absolute; border-radius:10px;top: 250px;
+}
